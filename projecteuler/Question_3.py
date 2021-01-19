@@ -11,4 +11,4 @@ def findPrimeFactor ():
                 break
     return max(factors)
 
-findPrimeFactor()
+print(findPrimeFactor())
